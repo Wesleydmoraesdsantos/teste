@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "description": "Pwa em desenvolvimento",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "point LINKmangás",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": ".link",
+  "start_url": ".",
+  "theme_color": "#000000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "./512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "Marcus-Roberto-Google-Play-Google-Play-Books.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "shortcuts": []
+}
